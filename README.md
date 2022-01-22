@@ -21,3 +21,4 @@
 - 19th Jan - 3 Sum Closest, Leetcode 16
 - 21th Jan - Next Greater Element I, Leetcode 496
 - 21th Jan - Nearest Greater Right
+- 22nd Jan - Stock Span Problem, Leetcode 901
