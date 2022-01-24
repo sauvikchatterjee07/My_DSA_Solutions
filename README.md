@@ -22,3 +22,4 @@
 - 21th Jan - Next Greater Element I, Leetcode 496
 - 21th Jan - Nearest Greater Right
 - 22nd Jan - Stock Span Problem, Leetcode 901
+- 24th Jan - Trapping Rain Water, Leetcode 42
