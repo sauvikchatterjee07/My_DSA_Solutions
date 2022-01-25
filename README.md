@@ -23,3 +23,4 @@
 - 21th Jan - Nearest Greater Right
 - 22nd Jan - Stock Span Problem, Leetcode 901
 - 24th Jan - Trapping Rain Water, Leetcode 42
+- 25th Jan - Find All Anagrams in a String, Leetcode 438
