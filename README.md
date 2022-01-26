@@ -28,3 +28,4 @@
 - 26th Jan - Minimum Size Subarray Sum, Leetcode 209
 - 26th Jan - Longest K unique characters substring, GFG
 - 26th Jan - Convert Binary Number in a Linked List to Integer, Leetcode 1290
+- 26th Jan - Running Sum of 1d Array, Leetcode 1480
