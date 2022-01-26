@@ -26,3 +26,4 @@
 - 25th Jan - Find All Anagrams in a String, Leetcode 438
 - 25th Jan - Sliding Window Maximum, Leetcode 239
 - 26th Jan - Minimum Size Subarray Sum, Leetcode 209
+- 26th Jan - Longest K unique characters substring, GFG
