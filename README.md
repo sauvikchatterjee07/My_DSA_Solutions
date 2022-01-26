@@ -27,3 +27,4 @@
 - 25th Jan - Sliding Window Maximum, Leetcode 239
 - 26th Jan - Minimum Size Subarray Sum, Leetcode 209
 - 26th Jan - Longest K unique characters substring, GFG
+- 26th Jan - Convert Binary Number in a Linked List to Integer, Leetcode 1290
