@@ -32,3 +32,4 @@
 - 27th Jan - Minimum Window Substring, Leetcode 76
 - 29th Jan - Final Value of Variable After Performing Operations, Leetcode 2011
 - 29th Jan - Maximum Number of Words Found in Sentences, Leetcode 2114
+- 1st Feb - Valid Palindrome, Leetcode 125
