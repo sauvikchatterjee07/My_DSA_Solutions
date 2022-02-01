@@ -33,3 +33,4 @@
 - 29th Jan - Final Value of Variable After Performing Operations, Leetcode 2011
 - 29th Jan - Maximum Number of Words Found in Sentences, Leetcode 2114
 - 1st Feb - Valid Palindrome, Leetcode 125
+- 1st Feb - Plus One, Leetcode 66
