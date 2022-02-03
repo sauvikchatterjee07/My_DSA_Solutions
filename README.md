@@ -34,3 +34,4 @@
 - 29th Jan - Maximum Number of Words Found in Sentences, Leetcode 2114
 - 1st Feb - Valid Palindrome, Leetcode 125
 - 1st Feb - Plus One, Leetcode 66
+- 3rd Feb - Number of Good Pairs, Leetcode 1512. Number of Good Pairs
