@@ -37,3 +37,4 @@
 - 2nd Feb - Number of Good Pairs, Leetcode 1512. Number of Good Pairs
 - 2nd Feb - Defanging an IP Address, Leetcode 1108
 - 2nd Feb - Kids With the Greatest Number of Candies, Leetcode 1431
+- 4th Feb - Missing Number, Leetcode 268 
