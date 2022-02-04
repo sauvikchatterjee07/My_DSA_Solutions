@@ -38,3 +38,5 @@
 - 2nd Feb - Defanging an IP Address, Leetcode 1108
 - 2nd Feb - Kids With the Greatest Number of Candies, Leetcode 1431
 - 4th Feb - Missing Number, Leetcode 268 
+- 4th Feb - Queries on Number of Points Inside a Circle, Leetcode 1828
+- 4th Feb - How Many Numbers Are Smaller Than the Current Number, Leetcode 1365
