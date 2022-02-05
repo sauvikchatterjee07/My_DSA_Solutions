@@ -42,3 +42,4 @@
 - 4th Feb - How Many Numbers Are Smaller Than the Current Number, Leetcode 1365
 - 5th Feb - Jump Game, Leetcode 55
 - 5th Feb - Jump Game 2, Leetcode 45
+- 5th Feb - N meetings in one room, Love Babbar SDE Sheet - Greedy 1
