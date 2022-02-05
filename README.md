@@ -40,3 +40,5 @@
 - 4th Feb - Missing Number, Leetcode 268 
 - 4th Feb - Queries on Number of Points Inside a Circle, Leetcode 1828
 - 4th Feb - How Many Numbers Are Smaller Than the Current Number, Leetcode 1365
+- 5th Feb - Jump Game, Leetcode 55
+- 5th Feb - Jump Game 2, Leetcode 45
