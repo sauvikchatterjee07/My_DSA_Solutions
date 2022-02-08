@@ -1,0 +1,10 @@
+    int maximum69Number (int num) {
+        string snum = to_string(num);
+        for(auto &c : snum){
+            if(c == '6'){
+                c = '9';
+                break;
+            }
+        }
+        return stoi(snum);
+    }
