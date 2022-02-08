@@ -50,3 +50,4 @@
 - 8th Feb - Partitioning Into Minimum Number Of Deci-Binary Numbers, Leetcode 1689
 - 8th Feb - Array Partition I, Leetcode 561
 - 8th Feb - Maximum 69 Number, Leetcode 1323
+- 8th Feb - Can Place Flowers, Leetcode 605
