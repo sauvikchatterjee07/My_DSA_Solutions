@@ -52,3 +52,4 @@
 - 8th Feb - Maximum 69 Number, Leetcode 1323
 - 8th Feb - Can Place Flowers, Leetcode 605
 - 9th Feb - Valid Palindrome II, Leetcode 680
+- 9th Feb - Minimize Maximum Pair Sum in Array, Leetcode 1877
