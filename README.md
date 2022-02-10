@@ -56,3 +56,4 @@
 - 9th Feb - Move Zeroes, Leetcode 283
 - 9th Feb - Number of Students Doing Homework at a Given Time, Leetcode 1450
 - 10th Feb - Max Increase to Keep City Skyline, Leetcode 807
+- 10th Feb - Partition Labels, Leetcode 763
