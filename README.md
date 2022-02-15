@@ -58,3 +58,4 @@
 - 10th Feb - Max Increase to Keep City Skyline, Leetcode 807
 - 10th Feb - Partition Labels, Leetcode 763
 - 10th Feb - Decode XORed Array, Leetcode 1720
+- 15th Feb - First Unique Character in a String, Leetcode 387
