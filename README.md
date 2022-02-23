@@ -62,3 +62,4 @@
 - 22nd Feb - 867. Transpose Matrix
 - 22nd Feb - 48. Rotate Image
 - 23rd Feb - 925. Long Pressed Name
+- 23rd Feb - 977. Squares of a Sorted Array
