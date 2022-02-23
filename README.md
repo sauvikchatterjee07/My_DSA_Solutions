@@ -61,3 +61,4 @@
 - 15th Feb - First Unique Character in a String, Leetcode 387
 - 22nd Feb - 867. Transpose Matrix
 - 22nd Feb - 48. Rotate Image
+- 23rd Feb - 925. Long Pressed Name
