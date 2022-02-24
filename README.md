@@ -63,3 +63,4 @@
 - 22nd Feb - 48. Rotate Image
 - 23rd Feb - 925. Long Pressed Name
 - 23rd Feb - 977. Squares of a Sorted Array
+- 24th Feb - 169. Majority Element
