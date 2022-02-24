@@ -64,3 +64,4 @@
 - 23rd Feb - 925. Long Pressed Name
 - 23rd Feb - 977. Squares of a Sorted Array
 - 24th Feb - 169. Majority Element
+- 24th Fe - 229. Majority Element II
