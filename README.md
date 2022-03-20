@@ -68,3 +68,4 @@
 - 25th Feb - 556. Next Greater Element III
 - 25th Feb - 31. Next Permutation
 - 14th Mar - 71. Simplify Path
+- 20th Mar - 1007. Minimum Domino Rotations For Equal Row
