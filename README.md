@@ -77,3 +77,4 @@
 - 1st Apr - 1313. Decompress Run-Length Encoded List
 - 10th Apr - 682. Baseball Game
 - 30th Apr - 73. Set Matrix Zeroes
+- 1st May - 118. Pascal's Triangle
